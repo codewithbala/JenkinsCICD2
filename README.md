@@ -1,4 +1,4 @@
-# Manik Calculator - Java Web Application
+ Java Web Application
 
 Manik Calculator is a Java-based web application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The application features a user-friendly GUI and is built using Spring MVC.
 
@@ -25,13 +25,13 @@ Manik Calculator is a Java-based web application that allows users to perform ba
 1. Clone the repository:
 
 ```
-git clone https://github.com/manikcloud/manik-calculator.git
+
 ```
 
 Navigate to the project directory:
 
 ```
-cd manik-calculator
+
 ```
 
 Build the project using Maven:
